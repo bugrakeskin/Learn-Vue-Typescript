@@ -1,13 +1,7 @@
 <template>
-  <div>
-    
-  </div>
+  <div>My Nuxt Page starter not compatible with NUXT4</div>
 </template>
 
-<script lang="ts" setup>
+<script lang="ts" setup></script>
 
-</script>
-
-<style>
-
-</style>
+<style></style>
